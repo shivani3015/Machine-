@@ -1,5 +1,5 @@
 
-# Lab54 - Linear Regression using Scikit-Learn
+# Lab - Linear Regression using Scikit-Learn
 
 ## Objective
 Build a Linear Regression model.
